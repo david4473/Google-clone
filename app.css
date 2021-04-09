@@ -93,12 +93,12 @@ nav ul li:nth-child(4){
     object-position: center bottom;
     max-width: 100%;
     max-height: 100%;
-    width: 320px;
+    width: 300px;
   }
 
   .input-wrap{
       width: 40rem;
-      height: 55px;
+      height: 45px;
       border-radius: 2rem;
       display: flex;
       justify-content: center;
@@ -125,7 +125,7 @@ nav ul li:nth-child(4){
       margin: 0;
       height: 100%;
       text-align: center;
-      padding-top: 16px;
+      padding-top: 12px;
       color: #3c4043;
   }
 
